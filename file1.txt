@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-'my first file - updated' 
-=======
-'my first file updating directly in git hub' 
->>>>>>> 3a9ad3fa485e344c249e5b702c2f847a025399e8
